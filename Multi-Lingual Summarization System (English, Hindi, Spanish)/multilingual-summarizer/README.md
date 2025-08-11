@@ -4,8 +4,8 @@ A comprehensive end-to-end multilingual text summarization system that produces 
 
 ## 🚀 Live Demo
 
-- **Frontend Interface**: [https://7860-iaw3x06omofavbqsoh8h4-404c5a5c.manusvm.computer](https://7860-iaw3x06omofavbqsoh8h4-404c5a5c.manusvm.computer)
-- **API Documentation**: [https://8000-iaw3x06omofavbqsoh8h4-404c5a5c.manusvm.computer/docs](https://8000-iaw3x06omofavbqsoh8h4-404c5a5c.manusvm.computer/docs)
+- **Frontend Interface**: [https://7860-iaw3x06omofavbqsoh8h4
+- **API Documentation**: [https://8000-iaw3x06omofavbqsoh8h4
 
 ## ✨ Features
 
