@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+requests
+gradio
+transformers
+torch
+sentencepiece
+langdetect
+python-multipart
+datasets
+rouge-score
+bert-score
+accelerate
+pydantic
+
+
